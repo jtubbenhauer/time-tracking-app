@@ -1,0 +1,18 @@
+@use "variables" as *;
+@import "profile-card";
+
+body {
+  font-size: 18px;
+  background-color: $verydarkblue;
+  color: white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid-wrapper {
+
+}
